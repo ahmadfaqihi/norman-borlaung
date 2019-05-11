@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+.topsection {
+  border: 1px solid;
+  text-align: center;
+  MARGIN: auto;
+}
+.middlesection {
+  margin: 20px;
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+  background-color: #DDD3D3;
+}
+h4 {
+  color: grey;
+}
+ul {
+  background-color: white;
+}
+p {
+  color: black;
+}
+img {
+  border-style: solid;
+  border-color: White;
+  border-width: 1px;
+  background-color:#f9f5f5;
+  margin: px;
+}
+.timeline li {
+  margin: 10px;
+  color: blue;
+  margin: 10px 0 20px 0;
+  background-color: #f9f5f5;
+}
+.timeline p{
+  border-bottom: 1px solid black;
+}
